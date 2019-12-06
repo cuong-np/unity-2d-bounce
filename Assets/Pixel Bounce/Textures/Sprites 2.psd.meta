@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: b7c6740a2879ba347917fdc621febe69
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BGR
+    21300002: Title
+    21300004: Controller R
+    21300006: Controller L
+    21300008: Push2Start
+    21300010: Geezer_Idle_001
+    21300012: Geezer_Run_001
+    21300014: Geezer_Run_002
+    21300016: Geezer_Run_003
+    21300018: ScoreBGR
+    21300020: HighScoreBGR
+    21300022: TotalScoreBGR
+    21300024: Geezer_Idle_002
+    21300026: Geezer_Run_004
+    21300028: Enemy Walk 001
+    21300030: Geezer_Jump_001
+    21300032: Geezer_Jump_002
+    21300034: Geezer_Jump_003
+    21300036: Geezer_Jump_004
+    21300038: Geezer_Idle_003
+    21300040: Geezer Dive
+    21300042: Geezer_Stunned_001
+    21300044: Geezer_Stunned_002
+    21300046: Geezer_Stunned_003
+    21300048: Shadow001
+    21300050: Caveman Stunned 002
+    21300052: Caveman Stunned 003
+    21300054: Enemy Walk 002
+    21300056: Enemy Walk 003
+    21300058: Enemy Walk 004
+    21300060: Enemy Hit 001
+    21300062: Enemy Hit 002
+    21300064: Enemy Hit 003
+    21300066: Enemy Hit 000
+    21300068: Effect Dirt 001
+    21300070: Effect Dirt 002
+    21300072: Effect Dirt 003
+    21300074: Effect Dirt 001
+    21300076: Effect Dirt 005
+    21300078: Effect Puff 001
+    21300080: Effect Puff 002
+    21300082: Effect Puff 003
+    21300084: Effect Puff 004
+    21300086: Effect Puff 005
+    21300088: Enemy Hit 00-1
+    21300090: Enemy Hit 00-2
+    21300092: Effect Bang 001
+    21300094: Effect Bang 002
+    21300096: Effect Bang 003
+    21300098: Geezer_Slash_001
+    21300100: Geezer_Slash_002
+    21300102: Geezer_Slash_003
+    21300104: Enemy Flap 001
+    21300106: Enemy Flap 002
+    21300108: Enemy Flap 003
+    21300110: Enemy 3 Walk 001
+    21300112: Enemy 3 Walk 002
+    21300114: Enemy 3 Walk 003
+    21300116: Enemy 3 Walk 004
+    21300118: Enemy 4 Walk 001
+    21300120: Enemy 4 Walk 002
+    21300122: Enemy 4 Walk 003
+    21300124: Enemy 4 Walk 004
+    21300126: NewRecord
+    21300128: NewRecordTrophy
+    21300130: Box
+    21300132: Icon Facebook
+    21300134: Twitter Icon
+    21300136: Share
+    21300138: Controller L 2
+    21300140: Controller R 2
+    21300142: Feather
+    21300144: Proffesor_Idle_001
+    21300146: Proffesor_Idle_002
+    21300148: Proffesor_Idle_003
+    21300150: Proffesor_Run_001
+    21300152: Proffesor_Run_002
+    21300154: Proffesor_Run_003
+    21300156: Proffesor_Run_004
+    21300158: Proffesor_Slash_001
+    21300160: Proffesor_Slash_002
+    21300162: Proffesor_Slash_003
+    21300164: Professor Diive
+    21300166: Professor_Stunned_001
+    21300168: Professor_Stunned_002
+    21300170: Professor_Stunned_003
+    21300172: JanitorIdle001
+    21300174: JanitorIdle002
+    21300176: JanitorIdle003
+    21300178: JanitorRun001
+    21300180: JanitorRun002
+    21300182: JanitorRun003
+    21300184: JanitorRun004
+    21300186: JanitorDive
+    21300188: JanitorSlash003
+    21300190: JanitorSlash001
+    21300192: JanitorSlash002
+    21300194: JanitorStunned001
+    21300196: JanitorStunned002
+    21300198: JanitorStunned003
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 26
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Geezer_Idle_001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Run_001
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 104
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Run_002
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 104
+        width: 18
+        height: 22
+      alignment: 9
+      pivot: {x: .600000024, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Run_003
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 104
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Idle_002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Run_004
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 105
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .400000006, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Jump_001
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 81
+        width: 13
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Jump_002
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 81
+        width: 15
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Jump_003
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 82
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Jump_004
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Idle_003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer Dive
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 81
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Stunned_001
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 60
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: .40535596, y: .778741002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Stunned_002
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 26
+        height: 17
+      alignment: 9
+      pivot: {x: .400000006, y: .800000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Stunned_003
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 60
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: .400000364, y: .781760633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Slash_001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: .37567994, y: .499999821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Slash_002
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 28
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: .319126397, y: .516880572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Geezer_Slash_003
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 25
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: .262126684, y: .599998295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

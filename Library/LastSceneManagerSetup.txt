@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pixel Bounce/Scenes/Pixel Bounce Game Scene.unity
+  isLoaded: 1
+  isActive: 1

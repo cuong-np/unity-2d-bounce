@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 13f6c9f6801058e46a6e3fa61ffd3c96
+labels:
+- blip
+- crash
+- powerup
+- flanger
+- laser
+- jump
+- phaser
+- soundeffect
+- retro
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: .5
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

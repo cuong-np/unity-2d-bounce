@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845009356294",
+    "firebase_url": "https://bounce2dunitygame.firebaseio.com",
+    "project_id": "bounce2dunitygame",
+    "storage_bucket": "bounce2dunitygame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845009356294:android:9c36b66abe6c9df4406587",
+        "android_client_info": {
+          "package_name": "com.uit.bounce2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845009356294-67gjbu3old29as1msfl2n5at891tbng7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDew2QmoTyiDPGnIbilIgQGeKJndBYSosc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845009356294-67gjbu3old29as1msfl2n5at891tbng7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

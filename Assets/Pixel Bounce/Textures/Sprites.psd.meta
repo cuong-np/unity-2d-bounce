@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 23744d849bbc8a14b85cefe658b8a9b9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BGR
+    21300002: Title
+    21300004: Controller R
+    21300006: Controller L
+    21300008: Push2Start
+    21300010: Caveman001
+    21300012: Caveman002
+    21300014: Caveman003
+    21300016: Caveman004
+    21300018: ScoreBGR
+    21300020: HighScoreBGR
+    21300022: TotalScoreBGR
+    21300024: Caveman Idle 002
+    21300026: Caveman005
+    21300028: Enemy Walk 001
+    21300030: CavemanJump001
+    21300032: CavemanJump002
+    21300034: CavemanJump003
+    21300036: CavemanJump004
+    21300038: Caveman Idle 003
+    21300040: Caveman Dive 001
+    21300042: Caveman Stunned 001
+    21300044: Caveman Stunned 002
+    21300046: Caveman Stunned 003
+    21300048: Shadow001
+    21300050: Caveman Stunned 002
+    21300052: Caveman Stunned 003
+    21300054: Enemy Walk 002
+    21300056: Enemy Walk 003
+    21300058: Enemy Walk 004
+    21300060: Enemy Hit 001
+    21300062: Enemy Hit 002
+    21300064: Enemy Hit 003
+    21300066: Enemy Hit 000
+    21300068: Effect Dirt 001
+    21300070: Effect Dirt 002
+    21300072: Effect Dirt 003
+    21300074: Effect Dirt 001
+    21300076: Effect Dirt 005
+    21300078: Effect Puff 001
+    21300080: Effect Puff 002
+    21300082: Effect Puff 003
+    21300084: Effect Puff 004
+    21300086: Effect Puff 005
+    21300088: Enemy Hit 00-1
+    21300090: Enemy Hit 00-2
+    21300092: Effect Bang 001
+    21300094: Effect Bang 002
+    21300096: Effect Bang 003
+    21300098: CavemanSlash001
+    21300100: CavemanSlash002
+    21300102: CavemanSlash003
+    21300104: Enemy Flap 001
+    21300106: Enemy Flap 002
+    21300108: Enemy Flap 003
+    21300110: Enemy 3 Walk 001
+    21300112: Enemy 3 Walk 002
+    21300114: Enemy 3 Walk 003
+    21300116: Enemy 3 Walk 004
+    21300118: Enemy 4 Walk 001
+    21300120: Enemy 4 Walk 002
+    21300122: Enemy 4 Walk 003
+    21300124: Enemy 4 Walk 004
+    21300126: NewRecord
+    21300128: NewRecordTrophy
+    21300130: Box
+    21300132: Icon Facebook
+    21300134: Twitter Icon
+    21300136: Share
+    21300138: Controller L 2
+    21300140: Controller R 2
+    21300142: Feather
+    21300144: Proffesor_Idle_001
+    21300146: Proffesor_Idle_002
+    21300148: Proffesor_Idle_003
+    21300150: Proffesor_Run_001
+    21300152: Proffesor_Run_002
+    21300154: Proffesor_Run_003
+    21300156: Proffesor_Run_004
+    21300158: Proffesor_Slash_001
+    21300160: Proffesor_Slash_002
+    21300162: Proffesor_Slash_003
+    21300164: Professor Diive
+    21300166: Professor_Stunned_001
+    21300168: Professor_Stunned_002
+    21300170: Professor_Stunned_003
+    21300172: JanitorIdle001
+    21300174: JanitorIdle002
+    21300176: JanitorIdle003
+    21300178: JanitorRun001
+    21300180: JanitorRun002
+    21300182: JanitorRun003
+    21300184: JanitorRun004
+    21300186: JanitorDive
+    21300188: JanitorSlash003
+    21300190: JanitorSlash001
+    21300192: JanitorSlash002
+    21300194: JanitorStunned001
+    21300196: JanitorStunned002
+    21300198: JanitorStunned003
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 26
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BGR
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187
+        height: 194
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Title
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 459
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Controller R
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 80
+        height: 74
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Controller L
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 125
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Push2Start
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 449
+        width: 83
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman002
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 490
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman003
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 490
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: .600000024, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman004
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 490
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ScoreBGR
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 496
+        width: 46
+        height: 16
+      alignment: 9
+      pivot: {x: -.0500000007, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HighScoreBGR
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 479
+        width: 46
+        height: 16
+      alignment: 9
+      pivot: {x: 1.04999995, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TotalScoreBGR
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 462
+        width: 53
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman Idle 002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman005
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 490
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: .400000006, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Walk 001
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 440
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanJump001
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 467
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanJump002
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 467
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanJump003
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 467
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanJump004
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 467
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman Idle 003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman Dive 001
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 486
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: .799120486, y: .601400137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman Stunned 001
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 453
+        width: 29
+        height: 14
+      alignment: 9
+      pivot: {x: .40535596, y: .778741002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shadow001
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 509
+        width: 12
+        height: 3
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman Stunned 002
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 453
+        width: 26
+        height: 14
+      alignment: 9
+      pivot: {x: .400000006, y: .800000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caveman Stunned 003
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 452
+        width: 26
+        height: 15
+      alignment: 9
+      pivot: {x: .400000364, y: .781760633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Walk 002
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 440
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Walk 003
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 440
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Walk 004
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 440
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Hit 001
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 420
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Hit 002
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 420
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Hit 003
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 420
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Hit 000
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 410
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Dirt 001
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 429
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Dirt 002
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 429
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Dirt 003
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 429
+        width: 28
+        height: 4
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Dirt 001
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 426
+        width: 37
+        height: 2
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Dirt 005
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 423
+        width: 53
+        height: 1
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Puff 001
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 393
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Puff 002
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 393
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Puff 003
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 393
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .300000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Puff 004
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 394
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: .5, y: .200000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Puff 005
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 396
+        width: 19
+        height: 15
+      alignment: 9
+      pivot: {x: .5, y: .100000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Hit 00-1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Hit 00-2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 407
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Bang 001
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 334
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: .220483631, y: .101733953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Bang 002
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 334
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: .242453292, y: .113963969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Effect Bang 003
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 334
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: .285535544, y: .21153675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanSlash001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 414
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: .570186257, y: .375075758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanSlash002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 384
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: .619476318, y: .392560244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CavemanSlash003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 19
+        height: 25
+      alignment: 9
+      pivot: {x: .554926813, y: .60256958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Flap 001
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 460
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: .5, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Flap 002
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 460
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy Flap 003
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 459
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 3 Walk 001
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 480
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 3 Walk 002
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 3 Walk 003
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 480
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: .5, y: .550000012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 3 Walk 004
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 480
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: .5, y: .524999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 4 Walk 001
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 480
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .389999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 4 Walk 002
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 480
+        width: 18
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .414999992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 4 Walk 003
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 480
+        width: 18
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .435000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Enemy 4 Walk 004
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 480
+        width: 18
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .414999992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewRecord
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 434
+        width: 76
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NewRecordTrophy
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 419
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 240
+        width: 115
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Icon Facebook
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 210
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Twitter Icon
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 210
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Share
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 431
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Controller L 2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 75
+        width: 125
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Controller R 2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 75
+        width: 80
+        height: 74
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Feather
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 501
+        width: 3
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Idle_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: .430000007, y: .560000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Idle_002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: .430000007, y: .569999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Idle_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 286
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: .430000007, y: .560000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Run_001
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 331
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Run_002
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 332
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: .509524047, y: .620000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Run_003
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 331
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: .500000358, y: .589472711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Run_004
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 332
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Slash_001
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: .557488084, y: .348994106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Slash_002
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: .615584612, y: .37624386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Proffesor_Slash_003
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 232
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: .57801944, y: .681005836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Professor Diive
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 291
+        width: 11
+        height: 27
+      alignment: 9
+      pivot: {x: .842787325, y: .645025194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Professor_Stunned_001
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 314
+        width: 31
+        height: 12
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Professor_Stunned_002
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 294
+        width: 28
+        height: 18
+      alignment: 9
+      pivot: {x: .486585081, y: .781717956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Professor_Stunned_003
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 276
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: .49047634, y: .600000381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorIdle001
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorIdle002
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 49
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorIdle003
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 26
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorRun001
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 82
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorRun002
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 82
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorRun003
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 81
+        width: 23
+        height: 22
+      alignment: 9
+      pivot: {x: .573913574, y: .563636065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorRun004
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 82
+        width: 23
+        height: 20
+      alignment: 9
+      pivot: {x: .552174449, y: .454999924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorDive
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 94
+        width: 12
+        height: 30
+      alignment: 9
+      pivot: {x: .838392913, y: .640191138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorSlash003
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: .570050299, y: .594520271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorSlash001
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: .532445014, y: .407887787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorSlash002
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: .61986351, y: .411430568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorStunned001
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 69
+        width: 30
+        height: 12
+      alignment: 9
+      pivot: {x: .297944635, y: 1.03424585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorStunned002
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 52
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: .389357358, y: .75042963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JanitorStunned003
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 31
+        width: 23
+        height: 19
+      alignment: 9
+      pivot: {x: .584872723, y: .51081425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
